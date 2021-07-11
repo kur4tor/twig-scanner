@@ -5,6 +5,9 @@
     "require": {
         "php": "^7.4"
     },
+    "bin": [
+        "bin/twig-scanner"
+    ],
     "autoload": {
         "psr-4": {
             "Kur4tor\\TwigScanner\\": "src"
